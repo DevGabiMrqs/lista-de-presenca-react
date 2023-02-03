@@ -1,0 +1,13 @@
+.info{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    height: 60px;
+    width: 50%;
+    background-color: #8572e8;
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 20px;  
+}
+
